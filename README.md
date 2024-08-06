@@ -8,4 +8,4 @@ Committed to exploring and implementing state-of-the-art technologies.
 ](https://www.linkedin.com/in/ali-tavakoliyaraki/)
 ## [📧](mailto:ali.tavakoli.yaraki1@gmail.com)
 
-![linkedin-icon-512x512-vkm0drb1](https://github.com/user-attachments/assets/ded893de-e769-4a0c-b2df-3d1658356af4)
+###### ![linkedin-icon-512x512-vkm0drb1](https://github.com/user-attachments/assets/ded893de-e769-4a0c-b2df-3d1658356af4)
