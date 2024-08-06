@@ -5,4 +5,4 @@ Committed to exploring and implementing state-of-the-art technologies.
 
 ### Social 🌐
 ## ![linkedin-icon-96x96-09whugk0](https://github.com/user-attachments/assets/5fc42ca3-182b-4209-9b4c-38ef9920cba3
-## [📧](mailto:ali.tavakoli.yaraki1@gmail.com)![Uploading linkedin-icon-96x96-09whugk0.png…]()
+## [📧](mailto:ali.tavakoli.yaraki1@gmail.com)
