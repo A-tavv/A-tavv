@@ -6,5 +6,6 @@ Committed to exploring and implementing state-of-the-art technologies.
 ## Social 🌐
 # [🇮🇳](https://www.linkedin.com/in/ali-tavakoliyaraki/)  [📧](mailto:ali.tavakoli.yaraki1@gmail.com)
 
-### Tech Support
+### Tech Support 💻
 **AI-ML-DL-CV**
+</> 👨🏻‍💻
