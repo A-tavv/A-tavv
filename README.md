@@ -4,6 +4,6 @@ I am Ali tavakoli a recent master graduated in ICT with a focused background in 
 Committed to exploring and implementing state-of-the-art technologies.
 
 ### Social 🌐
-[title](https://www.linkedin.com/in/ali-tavakoliyaraki/)
-[title](ali.tavakoli.yaraki1@gmail.com)
+[Linkedin](https://www.linkedin.com/in/ali-tavakoliyaraki/)
+[Email](ali.tavakoli.yaraki1@gmail.com)
 
