@@ -1,9 +1,9 @@
 ## 📝 About 
 
-Ali is here, A recent MSc graduated in ICT with a focused background in *artificial intelligence, Developing* through *Data, Design and high Tech*, continuously braistorming new ideas, Discovering and implementing idea from planing to deployment, experienced with CI/CD pipelines and **DevOps** methodologies.
+Ali is here, A recent MSc graduated in ICT from UniPD with a focused background in *artificial intelligence, Developing* through *Data, Design and high Tech*, continuously braistorming new ideas especially in MedTech, Discovering and implementing idea from planing to deployment, experienced with CI/CD pipelines and **DevOps** methodologies.
 ----
 ## S🌐cial 
-# <a href ='https://www.linkedin.com/in/ali-tavakoliyaraki/'> <img src='https://github.com/user-attachments/assets/7a0b42ad-f20e-4d63-9711-c48371a66dd9' width='32' height='25'> </a>  [📧](mailto:alee.tavakoli1@gmail.com)
+# [in](https://www.linkedin.com/in/ali-tavakoliyaraki/) [📧](mailto:alee.tavakoli1@gmail.com)
 ### 👨🏻‍💻 Tech Support 
 **AI-ML-DL-CV-IT**
 ----
